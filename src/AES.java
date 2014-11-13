@@ -46,6 +46,7 @@ public class AES
 			encrypt = false;
 
 		boolean ecb = true;
+		
 		File key = null;
 		File f = null;
 		Path path = null;
